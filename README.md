@@ -33,5 +33,5 @@
 **Speakers**: Audioengine [A2+ w/ Bluetooth](https://audioengine.com/shop/wirelessspeakers/a2-wireless-computer-speakers/) <br>
 **Storage**: IKEA [ALEX Drawer Unit](https://www.ikea.com/us/en/p/alex-drawer-unit-white-00473546/) <br>
 **Dongles & Cables**:
-  - Monitor Cable: Cable Matters [4K DisplayPort to DisplayPort Cable 10Feet](https://www.amazon.com/dp/B00TTQ306M?th=1) <br>
-  - Network Switch: TP-Link [TL-SG108E 8 Port Gigabit Switch](https://www.amazon.com/dp/B00K4DS5KU?th=1) <br>
+  - **Monitor Cable**: Cable Matters [4K DisplayPort to DisplayPort Cable 10Feet](https://www.amazon.com/dp/B00TTQ306M?th=1) <br>
+  - **Network Switch**: TP-Link [TL-SG108E 8 Port Gigabit Switch](https://www.amazon.com/dp/B00K4DS5KU?th=1) <br>
