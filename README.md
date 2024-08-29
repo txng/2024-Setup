@@ -1,7 +1,7 @@
-# 2024-Setup
+# Setup - August 2024
 
-# Current SFF PC Build
-## Built this current PC build during the COVID Pandemic. - 11/2020
+# Current SFF PC - 9L Build
+## Built this build during the COVID Pandemic. - 11/2020
 
 CPU: AMD Ryzen 7 3700X 3.6 GHz 8-Core Processor - Currently Clocked at 4GHz <br>
 CPU Cooler: Noctua NH-L12 Ghost S1 Edition <br>
