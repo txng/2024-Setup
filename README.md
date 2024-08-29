@@ -35,3 +35,6 @@
 **Dongles & Cables**:
   - **Monitor Cable**: Cable Matters [4K DisplayPort to DisplayPort Cable 10Feet](https://www.amazon.com/dp/B00TTQ306M?th=1) <br>
   - **Network Switch**: TP-Link [TL-SG108E 8 Port Gigabit Switch](https://www.amazon.com/dp/B00K4DS5KU?th=1) <br>
+  - **Ethernet Cable**: Monoprice [Cat6A 10ft Patch Cable](https://www.monoprice.com/product?p_id=44502) <br>
+  - **Patch Cable**: Monoprice [Cat6A 6in 5-Pk Cable](https://www.monoprice.com/product?p_id=15133) <br>
+  - **Microphone Cable**: Amazon Basic [USB 2.0 A-Male to Micro B Cable 6 Feet](https://www.amazon.com/gp/product/B07232M876/ref=ppx_yo_dt_b_search_asin_title?psc=1) <br>
