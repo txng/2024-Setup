@@ -20,7 +20,7 @@
 <br>
 
 ## Desk Setup (Hardware)
-**Desk**: IKEA [Idasen](https://www.ikea.com/us/en/p/idasen-desk-black-dark-gray-s59281036/) <br>
+**Desk**: IKEA [IDASEN](https://www.ikea.com/us/en/p/idasen-desk-black-dark-gray-s59281036/) <br>
 **Chair**: HermanMiller [Aeron](https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/2195348.html?lang=en_US) <br>
 **Desktop Computer**: SFF PC Build Above <br>
 **Keyboard**: Custom Built 60% Keyboard <br>
