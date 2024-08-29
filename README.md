@@ -25,7 +25,7 @@
 **Desktop Computer**: SFF PC Build Above <br>
 **Keyboard**: Custom Built 60% Keyboard <br>
 **Mouse**: Razer [Viper V2 Pro](https://www.razer.com/gaming-mice/Razer-Viper-V2-Pro/RZ01-04390100-R3U1) <br>
-**Primary Monitor**: Primary: Alienware [34 Curved QD-OLED Gaming Monitor - AW3423DWF](https://www.dell.com/en-us/shop/alienware-34-curved-qd-oled-gaming-monitor-aw3423dwf/apd/210-bfrp/monitors-monitor-accessories) <br>
+**Primary Monitor**: Alienware [34 Curved QD-OLED Gaming Monitor - AW3423DWF](https://www.dell.com/en-us/shop/alienware-34-curved-qd-oled-gaming-monitor-aw3423dwf/apd/210-bfrp/monitors-monitor-accessories) <br>
 **Secondary Monitor**: LG [27GL83A 27 Monitor](https://www.lg.com/us/monitors/lg-27gl83a-b-gaming-monitor) <br>
 **Montior Arm**: Ergotron [LX Desk Monitor Arm Black](https://www.ergotron.com/en-us/products/product-details/45-241) <br>
 **Webcam**: Logitech [C920s Pro HD](https://www.logitech.com/en-us/products/webcams/c920s-pro-hd-webcam.960-001257.html) <br>
