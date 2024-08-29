@@ -10,7 +10,7 @@
 **Secondary Storage:** Samsung 970 Evo 500 GB M.2-2280 PCIe 3.0 X4 NVME <br>
 **Video Card:** NVIDIA Founders Edition GeForce RTX 3070 <br>
 **Power Supply:** Corsair SF750 750W 80+ Platinum Certified <br>
-**Case:** [Formd T1](https://formdworks.com/collections/t1-1) <br>
+**Case:** FormD T1<br>
 **Case Fans:** 2x Noctua NF-A12x25 PWM 120mm <br>
 
 <br>
