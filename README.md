@@ -1,8 +1,8 @@
 # 2024-Setup
 
-# SFF PC Build
+# Current SFF PC Build
+## Built this current PC build during the COVID Pandemic. - 11/2020
 
-## Built this current PC build during the COVID Pandemic. - 11/2020 br>
 CPU: AMD Ryzen 7 3700X 3.6 GHz 8-Core Processor - Currently Clocked at 4GHz <br>
 CPU Cooler: Noctua NH-L12 Ghost S1 Edition <br>
 Motherboard: Asus ROG Strix X570-I Gaming Mini ITX AM4 Motherboard <br>
@@ -16,4 +16,4 @@ Case Fans: 2x Noctua NF-A12x25 PWM 120mm <br>
 
 <br>
 
-![gpu_side](images/gpu_side.png)
+![gpu_side](Images/gpu_side.png)
